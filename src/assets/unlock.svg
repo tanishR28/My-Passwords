@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Unlocked shackle -->
+  <path d="M44 24c0-6.627-5.373-12-12-12s-12 5.373-12 12v2h-4v-2c0-8.837 7.163-16 16-16s16 7.163 16 16v2c0 .552-.448 1-1 1h-3c-.552 0-1-.448-1-1v-2z" fill="#455A64" transform="translate(-6,-8) rotate(-25 38 20)"/>
+
+  <!-- Lock body (green) -->
+  <rect x="12" y="24" width="40" height="36" rx="4" ry="4" fill="#4CAF50"/>
+
+  <!-- Keyhole (elongated) -->
+  <g fill="#37474F">
+    <!-- Head -->
+    <circle cx="32" cy="36" r="5"/>
+    <!-- Elongated stem -->
+    <rect x="29" y="36" width="6" height="16" rx="2" ry="2"/>
+  </g>
+</svg>
